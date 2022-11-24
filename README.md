@@ -1,1 +1,2 @@
 # horiseon-hardacre
+The purpose of this project was to show i understood the task i was set, which was to clean and organize a pre-existing code. Also to increase the webpage's accesibility by introducing 'alt' tags to each informational image.During the process of editing the code for this webpage i learned the importance of making websites accessible to everyone regardless of disabilities or circumstance.
